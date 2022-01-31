@@ -1,0 +1,53 @@
+#MarqueeStyle{
+    background-color:blue;
+    color:white;
+}
+#Achivements{
+
+ text-align:center;
+
+}
+img{
+ width:min-content;
+ text-align:center;
+ 
+}
+#Contact_Us{
+    text-align: center;
+}
+#Contact_Us hr{
+    background-color:green;
+}
+#Achivements hr{
+    background-color:green;
+}
+#Achivements{
+    margin-top: 20px;
+}
+#Campus div span img {
+    width:400px;
+    height:400px;
+}
+#Campus div span h2 {
+    color:green;
+}
+#Campus div span{
+    
+    width:400px;
+    height:400px;
+}#ad{
+    width:250px;
+}
+ img{
+    height: 250px;
+    width: 250px;
+    cursor: pointer;
+}
+#News{
+    margin-top: 20px;
+}
+.vg{
+    height: 250px;
+    width: 250px;
+    cursor: pointer;
+}
